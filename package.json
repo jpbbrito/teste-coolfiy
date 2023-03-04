@@ -1,0 +1,23 @@
+{
+  "name": "teste-coolfiy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpbbrito/teste-coolfiy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpbbrito/teste-coolfiy/issues"
+  },
+  "homepage": "https://github.com/jpbbrito/teste-coolfiy#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
